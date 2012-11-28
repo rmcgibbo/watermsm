@@ -1,3 +1,10 @@
+# trajectores
+*.pdb
+*.lh5
+*.trr
+*.tpr
+
+
 *.py[cod]
 
 # C extensions
